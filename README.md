@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ### Hi there 👋
 
 ## About me
